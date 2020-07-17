@@ -13,15 +13,15 @@ evgeniya.osmakova@gmail.com, +79151523088
 
 ### * **2019-now learning Frontend developer profession**
 
-  **COURSES:**
+  COURSES:
   
    * [Hexlet](https://ru.hexlet.io/)
    
-  **BOOKS:**
+  BOOKS:
   
    * [Современный учебник JavaScript](https://learn.javascript.ru/)
    
-  **PROJECTS:**
+  PROJECTS:
   
    * [Brain games](https://github.com/evgeniya-osmakova/brain_games)
    
@@ -43,4 +43,4 @@ evgeniya.osmakova@gmail.com, +79151523088
 
 ## EDUCATION
 
-**The Bauman Moscow State Technical University**, Engineering Business and Management Faculty, Management department 2007-2013
+**2007-2013 The Bauman Moscow State Technical University**, Engineering Business and Management Faculty, Management department
