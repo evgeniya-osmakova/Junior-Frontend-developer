@@ -1,7 +1,7 @@
 **Evgeniya Osmakova**
 
 evgeniya.osmakova@gmail.com, +79151523088
-__________________________
+
 
 ## TECHNICAL PROFICIENCIES
 
