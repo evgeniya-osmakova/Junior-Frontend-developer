@@ -12,7 +12,7 @@ __________________________
 * React
 * Redux
 
-## Work experience
+## WORK EXPERIENCE
 
 * **junior Manual Software QA Engineer**, "Technoserv Consulting" Ltd, Moscow, Russia 2013
 
@@ -29,15 +29,15 @@ __________________________
 * **2014-2019 maternity leave**
 
 
-## Education
+## EDUCATION
 
 **The Bauman Moscow State Technical University**, Engineering Business and Management Faculty, Management department 2007-2013
 
 
-## Additional courses
+## ADDITIONAL COURSES
 [Hexlet](https://ru.hexlet.io/)
 
-## Projects on github:
+## PROJECTS ON GITHUB:
 * [Brain games](https://github.com/evgeniya-osmakova/brain_games)
 * [Utility for finding differences in two configuration files](https://github.com/evgeniya-osmakova/genDiff)
 * [RSS loader](https://github.com/evgeniya-osmakova/rss)
