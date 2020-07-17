@@ -11,19 +11,27 @@ evgeniya.osmakova@gmail.com, +79151523088
 
 ## WORK EXPERIENCE
 
-* **2019-now learning Frontend developer profession**
-  COURSES:
+* ###**2019-now learning Frontend developer profession**
+
+  **COURSES:**
+  
    * [Hexlet](https://ru.hexlet.io/)
-  BOOKS:
+   
+  **BOOKS:**
+  
    * [Современный учебник JavaScript](https://learn.javascript.ru/)
-  PROJECTS:
+   
+  **PROJECTS:**
+  
    * [Brain games](https://github.com/evgeniya-osmakova/brain_games)
+   
    * [Utility for finding differences in two configuration files](https://github.com/evgeniya-osmakova/genDiff)
+   
    * [RSS loader](https://github.com/evgeniya-osmakova/rss)
 
-* **2014-2019 maternity leave**
+* ###**2014-2019 maternity leave**
 
-* **2013-2014, "Technoserv Consulting" Ltd, Moscow, Russia**
+* ###**2013-2014, "Technoserv Consulting" Ltd, Moscow, Russia**
   junior QA Engineer
   QA Engineer
   
