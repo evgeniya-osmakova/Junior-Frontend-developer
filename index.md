@@ -1,9 +1,6 @@
 **Evgeniya Osmakova**
 
 evgeniya.osmakova@gmail.com, +79151523088
-
-# **Junior Frontend developer**
-
 __________________________
 
 ## TECHNICAL PROFICIENCIES
