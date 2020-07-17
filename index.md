@@ -1,4 +1,53 @@
-## Welcome to GitHub Pages
+# Junior Frontend developer
+
+### Evgeniya Osmakova
+__________________________
+
+## Details 
+Moscow, Russia
+
+evgeniya.osmakova@gmail.com
+
++79151523088
+
+## Skills
+
+* JavaScript
+* React
+* Redux
+
+## Work experience
+
+* **junior Manual Software QA Engineer**, "Technoserv Consulting" Ltd, Moscow, Russia 2013
+
+  **Manual Software QA Engineer**, "Technoserv Consulting" Ltd, Moscow, Russia 2014
+  
+  Working in Sberbank technology project.
+  
+  Manual functional and regression testing Oracle Siebel CRM. 
+  
+  Writing test cases, bugs reporting via Jira.
+  
+  Responsible for testing the module (two people were subordinate).
+
+* **2014-2019 maternity leave**
+
+
+## Education
+
+**The Bauman Moscow State Technical University**, Engineering Business and Management Faculty, Management department 2007-2013
+
+
+## Education
+
+
+## Projects on github:
+* [Brain games](https://github.com/evgeniya-osmakova/brain_games)
+* [Utility for finding differences in two configuration files](https://github.com/evgeniya-osmakova/genDiff)
+* [Subscribe to RSS feeds with automatic updates](https://github.com/evgeniya-osmakova/rss)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/evgeniya-osmakova/cv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
