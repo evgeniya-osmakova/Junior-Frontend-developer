@@ -11,7 +11,7 @@ evgeniya.osmakova@gmail.com, +79151523088
 
 ## WORK EXPERIENCE
 
-### **2019-now learning Frontend developer profession**
+### * **2019-now learning Frontend developer profession**
 
   **COURSES:**
   
@@ -29,9 +29,9 @@ evgeniya.osmakova@gmail.com, +79151523088
    
    * [RSS loader](https://github.com/evgeniya-osmakova/rss)
 
-### **2014-2019 maternity leave**
+### * **2014-2019 maternity leave**
 
-### **2013-2014, "Technoserv Consulting" Ltd, Moscow, Russia**
+### * **2013-2014, "Technoserv Consulting" Ltd, Moscow, Russia**
   junior QA Engineer
   QA Engineer
   
