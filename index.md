@@ -3,7 +3,7 @@
 evgeniya.osmakova@gmail.com, +79151523088
 
 
-## TECHNICAL PROFICIENCIES
+## TECHNICAL SKILLS
 
 * JavaScript
 * React
