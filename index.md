@@ -8,6 +8,7 @@ evgeniya.osmakova@gmail.com, +79151523088
 * JavaScript
 * React
 * Redux
+* Vue
 
 ## WORK EXPERIENCE
 
@@ -22,6 +23,10 @@ evgeniya.osmakova@gmail.com, +79151523088
    * [Современный учебник JavaScript](https://learn.javascript.ru/)
    
   PROJECTS:
+  
+   * [Logical game "Simon says"](https://github.com/evgeniya-osmakova/simon)
+    
+   * [An example of customer registration form with validation](https://github.com/evgeniya-osmakova/registrationForm)
   
    * [Brain games](https://github.com/evgeniya-osmakova/brain_games)
    
