@@ -1,0 +1,32 @@
+header {
+    background-color: #373737;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+body, html {
+    margin: 0;
+    font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.container__contacts {
+    font-size: 14px;
+}
+
+.container__work div, p, li {
+    margin-bottom: 15px;
+}
+
+a {
+   color: blue;
+}
